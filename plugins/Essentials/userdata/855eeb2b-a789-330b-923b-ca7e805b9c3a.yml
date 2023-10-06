@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.137.103.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696257877615
+  login: 1696257767422
+money: '30.0000000000000005'
+last-account-name: hibikidibi
+logoutlocation:
+  world: 05e7bdea-2939-4a51-b0c9-36ea95be7e05
+  world-name: world
+  x: 210.2756698001136
+  y: 69.5625
+  z: 140.9881909841872
+  yaw: 153.9898223876953
+  pitch: -20.450040817260742
+lastlocation:
+  world: 05e7bdea-2939-4a51-b0c9-36ea95be7e05
+  world-name: world
+  x: 232.84287986703825
+  y: -23.0
+  z: -0.265079354926394
+  yaw: -110.90028381347656
+  pitch: 41.62078857421875

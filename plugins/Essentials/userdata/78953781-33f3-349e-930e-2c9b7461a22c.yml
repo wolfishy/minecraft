@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.154.138.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1695841822733
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696013637368
+  login: 1696013461408
+money: '30.3000000000000005'
+last-account-name: wolfishiny
+lastlocation:
+  world: 05e7bdea-2939-4a51-b0c9-36ea95be7e05
+  world-name: world
+  x: 275.93073400141634
+  y: 65.5123854798781
+  z: 173.48117766018606
+  yaw: 133.47232055664062
+  pitch: 17.135868072509766
+logoutlocation:
+  world: 05e7bdea-2939-4a51-b0c9-36ea95be7e05
+  world-name: world
+  x: 213.37114050765732
+  y: 65.0
+  z: 133.56380582280707
+  yaw: -60.156707763671875
+  pitch: 9.523900032043457
